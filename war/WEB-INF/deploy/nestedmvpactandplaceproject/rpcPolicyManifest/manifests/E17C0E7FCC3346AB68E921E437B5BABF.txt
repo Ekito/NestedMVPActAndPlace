@@ -1,0 +1,2 @@
+serviceClass: org.ekito.gwt.client.GreetingService
+path: 79A0B86EBC5A09354968DC12458661B8.gwt.rpc
